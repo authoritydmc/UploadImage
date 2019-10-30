@@ -50,7 +50,7 @@ public class Upload extends Activity {
 
 
             Random random=new Random();
-            String fileName="Test"+random.nextDouble()*random.nextInt(100)+".jpg";
+            String fileName="Test"+random.nextInt(1000)+".jpg";
 
 
             Myasync myasync=new Myasync(uri,fileName);
