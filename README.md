@@ -1,6 +1,6 @@
 # Upload.php
 
-Please Allow Directory to read write and excute Permission to /images directory
+Please Allow /images Directory to read write and execute Permission 
 
 
 for test case if fopen permission denied occur 
