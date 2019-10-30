@@ -1,8 +1,10 @@
 # Upload.php
-# require params
+# required params
+<B> POST METHOD </B> 
 
-  image_str   = encoded base64 data
-  image_name  =image name
+ <b> image_str   </b> = encoded base64 data
+  <br>
+   <b> image_name </b> =image name
 
 # fix
 Please Allow /images Directory to read write and execute Permission 
