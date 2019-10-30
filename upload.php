@@ -14,7 +14,7 @@ if(isset($_POST["image_str"]))
     {
         #file is written to folder 
         
-        $conn = new mysqli("192.168.43.78", "root", "","test");
+        $conn = new mysqli("localhost", "root", "","test");
         
         $query="INSERT INTO images_tbl (name,images_path) values ('$img_name','$path');";
     
