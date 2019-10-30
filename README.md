@@ -1,5 +1,10 @@
 # Upload.php
+# require params
 
+  image_str   = encoded base64 data
+  image_name  =image name
+
+# fix
 Please Allow /images Directory to read write and execute Permission 
 
 
